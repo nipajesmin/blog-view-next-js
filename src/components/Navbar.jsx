@@ -35,7 +35,7 @@ const Navbar = async () => {
                         </button>
                     </LogoutLink>
                     </>
-                ) : (<div>
+                ) : (<div className="space-x-4">
                     <LoginLink>
                         <button className="text-lg">
                             Sign In
