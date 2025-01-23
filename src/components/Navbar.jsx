@@ -11,7 +11,7 @@ const Navbar = async () => {
             {/* Logo */}
             <div className="text-2xl font-bold">
                 <Link href="/" className="hover:text-gray-300">
-                    Logo
+                    Blog
                 </Link>
             </div>
 
@@ -20,9 +20,7 @@ const Navbar = async () => {
                 <Link href="/" className="text-lg hover:text-gray-300">
                     Home
                 </Link>
-                <Link href="/product" className="text-lg hover:text-gray-300">
-                    Product
-                </Link>
+                
                 <Link href="/profile" className="text-lg hover:text-gray-300">
                     Profile
                 </Link>
