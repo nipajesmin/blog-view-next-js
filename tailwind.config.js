@@ -15,3 +15,19 @@ export default {
   },
   plugins: [],
 };
+
+
+// // Define the Tailwind CSS configuration object
+// const tailwindConfig = {
+//   content: [
+//     "./pages//*.{js,ts,jsx,tsx}",
+//     "./components//*.{js,ts,jsx,tsx}",
+//   ],
+//   theme: {
+//     extend: {},
+//   },
+//   plugins: [],
+// };
+
+// // Export the configuration object
+// module.exports = tailwindConfig;
